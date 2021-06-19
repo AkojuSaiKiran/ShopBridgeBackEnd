@@ -1,0 +1,14 @@
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\ShopBridge.mdf
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\ShopBridge_log.ldf
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\EntityFramework.dll
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\EntityFramework.xml
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\SaikiranExamples\ShopBridgeBackEnd\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
